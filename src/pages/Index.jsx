@@ -1,4 +1,4 @@
-import CropDashboard from "@/components/CropDashboard";
+import CropDashboard from "@/components/CropDashboard.jsx";
 
 const Index = () => {
   return <CropDashboard />;
